@@ -6,7 +6,9 @@ import useStyles from './CartItemstyles'
 const Cartitem = () => {
     const classes = useStyles()
     return (
-        
+        <div>
+            
+        </div>
     )
 }
 
